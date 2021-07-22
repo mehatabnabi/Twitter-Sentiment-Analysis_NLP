@@ -30,14 +30,13 @@
 
   ![](Images/image2.png)
   
-  ![](/images/3.png)
   
 **Data Cleaning**
 - We will clean the data using the tweet-preprocessor library. Here's the link: https://pypi.org/project/tweet-preprocessor/
 - This library removes URLs, Hashtags, Mentions, Reserved words (RT, FAV), Emojis, and Smileys.
 - We will also use the regular expression library to remove other special cases that the tweet-preprocessor library didn't have.
   
-  ![](/images/4.png)
+  ![](Images/image3.png)
   
 **Train and Test Split**
 - Now that we have cleaned our data, we will do the test and train split using the train_test_split function.
@@ -51,7 +50,7 @@
             "Please subscribe to my channel"]
             
 - CountVectorizer combines all the documents and tokenizes them. Then it counts the number of occurrences from each document. The results are shown below.
-  ![](/images/5.png)
+  ![](Images/image4.png)
             
 **Model Building**
 - Now that we have vectorized all the tweets, we will build a model to classify the test data. 
@@ -60,7 +59,7 @@
 
 **Accuracy**
 - And here we go! The accuracy turned out to be 95%!
-![](/images/6.png)
+![](Images/image5.jpg)
 
 
 
