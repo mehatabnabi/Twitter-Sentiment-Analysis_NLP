@@ -1,12 +1,12 @@
 # Twitter-Sentiment-Analysis
 
 **Summary**
-- Got a Twitter dataset from Kaggle
-- Cleaned the data using the tweet-preprocessor library and the regular expression library
-- Splitted the training and the test data by 70/30 ratio
+- Twitter dataset from Kaggle
+- Data cleaning - Used the tweet-preprocessor library and the regular expression library to clean the data.
+- Training/test data splits- 70%/30%
 - Vectorized the tweets using the CountVectorizer library
-- Built a model using Support Vector Classifier
-- Achieved a 95% accuracy
+- Built a model using Support Vector machine Classifier
+- Achieved approx 95% accuracy
 
 -------------------------------------------------------------------------------------------------------
 
