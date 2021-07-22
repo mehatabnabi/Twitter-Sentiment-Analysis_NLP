@@ -40,7 +40,7 @@
   
 **Train and Test Split**
 - Now that we have cleaned our data, we will do the test and train split using the train_test_split function.
-- We will use 70% of the data as the training data and the remaining 30% as the test data.
+- We will use 70% of the data as the training data and the rest 30% as the test data.
 
 **Vectorize Tweets using CoutVectorizer**
 - Now, we will convert text into numeric form as our model won't be able to understand the human language. We will vectorize the tweets using CountVectorizer. CountVectorizer provides a simple way to both tokenize a collection of text documents and build a vocabulary of known words. 
@@ -57,8 +57,8 @@
 - We will use a supervised learning algorithm, Support Vector Classifier (SVC). It is widely used for binary classifications and multi-class classifications.
 - You can find more explanation on the scikit-learn documentation page: https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
 
-**Accuracy**
-- And here we go! The accuracy turned out to be 95%!
+**Accuracy of the built model**
+- We have achieved an accuracy of 94.86%!, roughly 95%.
 ![](Images/image5.jpg)
 
 
