@@ -28,7 +28,7 @@
 - Notice how there exist special characters like @, #, !, and etc. We will remove these characters later in the data cleaning step. 
 - Check if there are any missing values. There were no missing values for both training and test data.
 
-  ![](Images/image 2.png)
+  ![](Images/image2.png)
   
   ![](/images/3.png)
   
