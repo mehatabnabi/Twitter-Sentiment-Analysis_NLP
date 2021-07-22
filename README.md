@@ -6,7 +6,7 @@
 - Training/test data splits- 70%/30%
 - Vectorized the tweets using the CountVectorizer library
 - Built a model using Support Vector machine Classifier
-- Achieved approx 95% accuracy
+- Model accuracy - approx 95% accuracy
 
 -------------------------------------------------------------------------------------------------------
 
