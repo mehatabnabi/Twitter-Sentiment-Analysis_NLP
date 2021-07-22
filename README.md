@@ -23,7 +23,7 @@
 **Data Exploration (Exploratory Data Analysis)**
 - Let's check what our training and the test data look like.
  
- ![](/Images/image1.jpg)
+ ![](/Images/image1.JPG)
 
 - Notice how there exist special characters like @, #, !, and etc. We will remove these characters later in the data cleaning step. 
 - Check if there are any missing values. There were no missing values for both training and test data.
